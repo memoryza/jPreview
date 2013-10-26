@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+*{margin:0;padding:0;outline: none;}
+a,img{border:0;}
+body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
+/* 当前页html body样式 */
+*html,*html body /* 修正IE6振动bug */{background-image:url(about:blank);background-attachment:fixed;}
+html, body{overflow:hidden;background:#222;}
+#container{width:600px;margin:50 auto;clear: both;}
+#container img{width:120px;height:120px;border:5px solid white;border-radius:3px;}
+#container ul li{float:left;padding:10px;margin:auto 0;}
+#view {width:250px;margin:0 auto;}
+#view img{width:240px;height:240px;}
+#tip {position:absolute; top:0; margin:0 auto;text-align:center;color:red;z-index:9999; width:100%;}
