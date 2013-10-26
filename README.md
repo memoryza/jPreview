@@ -7,4 +7,4 @@ image preview plugin
 
 API支持trunLeft、turnRight回调
 
-#效果请查看：http://www.aililuo.com/demos/preview/index.html
+效果请查看：http://www.aililuo.com/demos/preview/index.html
